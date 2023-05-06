@@ -20,3 +20,4 @@ To run this program, you need to have Node.js installed on your machine. Once yo
 - The exchange rates are displayed in the format "USD: 1 = EUR: X", where X is the current exchange rate.
 - The program will continue to fetch and display the exchange rates every 10 seconds until you stop it by pressing `Ctrl+C` in your terminal or command prompt.
 - If there is an error fetching the exchange rates, the program will display the error message in the console. 
+ 
