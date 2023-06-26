@@ -1,4 +1,4 @@
-# Currency Rates Live Tracker
+# Currency Rates Live Tracker 
 
 This is a JavaScript program that fetches and displays real-time exchange rates for USD and EUR.
 
